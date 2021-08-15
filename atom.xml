@@ -5,16 +5,16 @@
   <subtitle>アゲイン</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="leouas.github.io/"/>
+  <link href="leouas.github.io/demo/"/>
   <updated>2020-11-07T15:30:40.000Z</updated>
-  <id>leouas.github.io/</id>
+  <id>leouas.github.io/demo/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Mdnice 阿里云图床OSS一次错误解决</title>
-    <link href="leouas.github.io/aliyun-oss-mdnice/"/>
-    <id>leouas.github.io/aliyun-oss-mdnice/</id>
+    <link href="aliyun-oss-mdnice/"/>
+    <id>aliyun-oss-mdnice/</id>
     <published>2020-11-07T15:30:40.000Z</published>
     <updated>2020-11-07T15:30:40.000Z</updated>
     
@@ -27,15 +27,15 @@
     </summary>
     
     
-      <category term="geek" scheme="leouas.github.io/categories/geek/"/>
+      <category term="geek" scheme="leouas.github.io/demo/categories/geek/"/>
     
     
   </entry>
   
   <entry>
     <title>Handwriting_Style_Font_Modification in Word</title>
-    <link href="leouas.github.io/geek-word-font/"/>
-    <id>leouas.github.io/geek-word-font/</id>
+    <link href="geek-word-font/"/>
+    <id>geek-word-font/</id>
     <published>2020-06-15T06:41:25.000Z</published>
     <updated>2020-06-15T06:41:25.000Z</updated>
     
@@ -51,15 +51,15 @@
     </summary>
     
     
-      <category term="geek" scheme="leouas.github.io/categories/geek/"/>
+      <category term="geek" scheme="leouas.github.io/demo/categories/geek/"/>
     
     
   </entry>
   
   <entry>
     <title>千图成像</title>
-    <link href="leouas.github.io/share-Thousand-Images/"/>
-    <id>leouas.github.io/share-Thousand-Images/</id>
+    <link href="share-Thousand-Images/"/>
+    <id>share-Thousand-Images/</id>
     <published>2020-06-11T10:11:30.000Z</published>
     <updated>2020-06-11T10:11:30.000Z</updated>
     
@@ -72,17 +72,17 @@
     </summary>
     
     
-      <category term="share" scheme="leouas.github.io/categories/share/"/>
+      <category term="share" scheme="leouas.github.io/demo/categories/share/"/>
     
     
-      <category term="ps" scheme="leouas.github.io/tags/ps/"/>
+      <category term="ps" scheme="leouas.github.io/demo/tags/ps/"/>
     
   </entry>
   
   <entry>
     <title>Unlike</title>
-    <link href="leouas.github.io/share-unlike/"/>
-    <id>leouas.github.io/share-unlike/</id>
+    <link href="share-unlike/"/>
+    <id>share-unlike/</id>
     <published>2020-05-24T13:11:23.000Z</published>
     <updated>2020-05-24T13:11:23.000Z</updated>
     
@@ -95,15 +95,15 @@
     </summary>
     
     
-      <category term="share" scheme="leouas.github.io/categories/share/"/>
+      <category term="share" scheme="leouas.github.io/demo/categories/share/"/>
     
     
   </entry>
   
   <entry>
     <title>配置git代理</title>
-    <link href="leouas.github.io/geek-git-proxy/"/>
-    <id>leouas.github.io/geek-git-proxy/</id>
+    <link href="geek-git-proxy/"/>
+    <id>geek-git-proxy/</id>
     <published>2020-05-06T11:34:12.000Z</published>
     <updated>2020-05-06T11:34:12.000Z</updated>
     
@@ -116,17 +116,17 @@
     </summary>
     
     
-      <category term="geek" scheme="leouas.github.io/categories/geek/"/>
+      <category term="geek" scheme="leouas.github.io/demo/categories/geek/"/>
     
     
-      <category term="proxy" scheme="leouas.github.io/tags/proxy/"/>
+      <category term="proxy" scheme="leouas.github.io/demo/tags/proxy/"/>
     
   </entry>
   
   <entry>
     <title>欲望的无底洞</title>
-    <link href="leouas.github.io/share-killerQueen/"/>
-    <id>leouas.github.io/share-killerQueen/</id>
+    <link href="share-killerQueen/"/>
+    <id>share-killerQueen/</id>
     <published>2020-04-30T11:12:09.000Z</published>
     <updated>2020-04-30T11:12:09.000Z</updated>
     
@@ -139,15 +139,15 @@
     </summary>
     
     
-      <category term="share" scheme="leouas.github.io/categories/share/"/>
+      <category term="share" scheme="leouas.github.io/demo/categories/share/"/>
     
     
   </entry>
   
   <entry>
     <title>将Hexo部署到阿里云轻量服务器(转载)</title>
-    <link href="leouas.github.io/geek-oss-hexo/"/>
-    <id>leouas.github.io/geek-oss-hexo/</id>
+    <link href="geek-oss-hexo/"/>
+    <id>geek-oss-hexo/</id>
     <published>2020-04-26T19:18:31.000Z</published>
     <updated>2020-04-26T19:18:31.000Z</updated>
     
@@ -160,17 +160,17 @@
     </summary>
     
     
-      <category term="geek" scheme="leouas.github.io/categories/geek/"/>
+      <category term="geek" scheme="leouas.github.io/demo/categories/geek/"/>
     
     
-      <category term="hexo" scheme="leouas.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="leouas.github.io/demo/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>Image-Format-Converter</title>
-    <link href="leouas.github.io/geek-image-format-converter/"/>
-    <id>leouas.github.io/geek-image-format-converter/</id>
+    <link href="geek-image-format-converter/"/>
+    <id>geek-image-format-converter/</id>
     <published>2020-04-22T17:35:23.000Z</published>
     <updated>2020-04-22T17:35:23.000Z</updated>
     
@@ -183,17 +183,17 @@
     </summary>
     
     
-      <category term="geek" scheme="leouas.github.io/categories/geek/"/>
+      <category term="geek" scheme="leouas.github.io/demo/categories/geek/"/>
     
     
-      <category term="tools" scheme="leouas.github.io/tags/tools/"/>
+      <category term="tools" scheme="leouas.github.io/demo/tags/tools/"/>
     
   </entry>
   
   <entry>
     <title>公主连结Re:Dive  可可萝</title>
-    <link href="leouas.github.io/mics-GZHJ-ReDive/"/>
-    <id>leouas.github.io/mics-GZHJ-ReDive/</id>
+    <link href="mics-GZHJ-ReDive/"/>
+    <id>mics-GZHJ-ReDive/</id>
     <published>2020-04-22T15:50:54.000Z</published>
     <updated>2020-04-22T15:50:54.000Z</updated>
     
@@ -206,17 +206,17 @@
     </summary>
     
     
-      <category term="mics" scheme="leouas.github.io/categories/mics/"/>
+      <category term="mics" scheme="leouas.github.io/demo/categories/mics/"/>
     
     
-      <category term="pic" scheme="leouas.github.io/tags/pic/"/>
+      <category term="pic" scheme="leouas.github.io/demo/tags/pic/"/>
     
   </entry>
   
   <entry>
     <title>Sublime Text - Evernote</title>
-    <link href="leouas.github.io/geek-Sublime-Text-Evernote/"/>
-    <id>leouas.github.io/geek-Sublime-Text-Evernote/</id>
+    <link href="geek-Sublime-Text-Evernote/"/>
+    <id>geek-Sublime-Text-Evernote/</id>
     <published>2020-04-22T08:42:05.000Z</published>
     <updated>2020-04-22T08:42:05.000Z</updated>
     
@@ -229,17 +229,17 @@
     </summary>
     
     
-      <category term="geek" scheme="leouas.github.io/categories/geek/"/>
+      <category term="geek" scheme="leouas.github.io/demo/categories/geek/"/>
     
     
-      <category term="sublime text" scheme="leouas.github.io/tags/sublime-text/"/>
+      <category term="sublime text" scheme="leouas.github.io/demo/tags/sublime-text/"/>
     
   </entry>
   
   <entry>
     <title>JOJO</title>
-    <link href="leouas.github.io/share-JOJO/"/>
-    <id>leouas.github.io/share-JOJO/</id>
+    <link href="share-JOJO/"/>
+    <id>share-JOJO/</id>
     <published>2020-04-18T16:12:53.000Z</published>
     <updated>2020-04-18T16:12:53.000Z</updated>
     
@@ -252,17 +252,17 @@
     </summary>
     
     
-      <category term="share" scheme="leouas.github.io/categories/share/"/>
+      <category term="share" scheme="leouas.github.io/demo/categories/share/"/>
     
     
-      <category term="JOJO" scheme="leouas.github.io/tags/JOJO/"/>
+      <category term="JOJO" scheme="leouas.github.io/demo/tags/JOJO/"/>
     
   </entry>
   
   <entry>
     <title>hexo-html-demo</title>
-    <link href="leouas.github.io/geek-html-demo/"/>
-    <id>leouas.github.io/geek-html-demo/</id>
+    <link href="geek-html-demo/"/>
+    <id>geek-html-demo/</id>
     <published>2020-04-13T21:26:22.000Z</published>
     <updated>2020-04-13T21:26:22.000Z</updated>
     
@@ -275,19 +275,19 @@
     </summary>
     
     
-      <category term="geek" scheme="leouas.github.io/categories/geek/"/>
+      <category term="geek" scheme="leouas.github.io/demo/categories/geek/"/>
     
     
-      <category term="hexo" scheme="leouas.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="leouas.github.io/demo/tags/hexo/"/>
     
-      <category term="sakura" scheme="leouas.github.io/tags/sakura/"/>
+      <category term="sakura" scheme="leouas.github.io/demo/tags/sakura/"/>
     
   </entry>
   
   <entry>
     <title>CODMW-Soap-Ghost</title>
-    <link href="leouas.github.io/mics-3D-CSS/"/>
-    <id>leouas.github.io/mics-3D-CSS/</id>
+    <link href="mics-3D-CSS/"/>
+    <id>mics-3D-CSS/</id>
     <published>2020-04-13T20:51:00.000Z</published>
     <updated>2020-04-13T20:51:00.000Z</updated>
     
@@ -300,17 +300,17 @@
     </summary>
     
     
-      <category term="mics" scheme="leouas.github.io/categories/mics/"/>
+      <category term="mics" scheme="leouas.github.io/demo/categories/mics/"/>
     
     
-      <category term="pic" scheme="leouas.github.io/tags/pic/"/>
+      <category term="pic" scheme="leouas.github.io/demo/tags/pic/"/>
     
   </entry>
   
   <entry>
     <title>Call-of-Duty-WM</title>
-    <link href="leouas.github.io/mics-COD-mw2/"/>
-    <id>leouas.github.io/mics-COD-mw2/</id>
+    <link href="mics-COD-mw2/"/>
+    <id>mics-COD-mw2/</id>
     <published>2020-04-13T18:26:00.000Z</published>
     <updated>2020-04-13T18:26:00.000Z</updated>
     
@@ -323,17 +323,17 @@
     </summary>
     
     
-      <category term="mics" scheme="leouas.github.io/categories/mics/"/>
+      <category term="mics" scheme="leouas.github.io/demo/categories/mics/"/>
     
     
-      <category term="pic" scheme="leouas.github.io/tags/pic/"/>
+      <category term="pic" scheme="leouas.github.io/demo/tags/pic/"/>
     
   </entry>
   
   <entry>
     <title>印象笔记“图床”</title>
-    <link href="leouas.github.io/geek-%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%E5%9B%BE%E5%BA%8A/"/>
-    <id>leouas.github.io/geek-%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%E5%9B%BE%E5%BA%8A/</id>
+    <link href="geek-%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%E5%9B%BE%E5%BA%8A/"/>
+    <id>geek-%E5%8D%B0%E8%B1%A1%E7%AC%94%E8%AE%B0%E5%9B%BE%E5%BA%8A/</id>
     <published>2020-04-13T11:43:32.000Z</published>
     <updated>2020-04-13T11:43:32.000Z</updated>
     
@@ -349,17 +349,17 @@
     </summary>
     
     
-      <category term="geek" scheme="leouas.github.io/categories/geek/"/>
+      <category term="geek" scheme="leouas.github.io/demo/categories/geek/"/>
     
     
-      <category term="图床" scheme="leouas.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+      <category term="图床" scheme="leouas.github.io/demo/tags/%E5%9B%BE%E5%BA%8A/"/>
     
   </entry>
   
   <entry>
     <title>Minecraft</title>
-    <link href="leouas.github.io/mics-Minecraft/"/>
-    <id>leouas.github.io/mics-Minecraft/</id>
+    <link href="mics-Minecraft/"/>
+    <id>mics-Minecraft/</id>
     <published>2020-03-15T03:46:08.000Z</published>
     <updated>2020-03-15T03:46:08.000Z</updated>
     
@@ -375,15 +375,15 @@
     </summary>
     
     
-      <category term="mics" scheme="leouas.github.io/categories/mics/"/>
+      <category term="mics" scheme="leouas.github.io/demo/categories/mics/"/>
     
     
   </entry>
   
   <entry>
     <title>manual</title>
-    <link href="leouas.github.io/share-sjtu/"/>
-    <id>leouas.github.io/share-sjtu/</id>
+    <link href="share-sjtu/"/>
+    <id>share-sjtu/</id>
     <published>2020-03-14T10:14:28.000Z</published>
     <updated>2020-03-14T10:14:28.000Z</updated>
     
@@ -396,15 +396,15 @@
     </summary>
     
     
-      <category term="share" scheme="leouas.github.io/categories/share/"/>
+      <category term="share" scheme="leouas.github.io/demo/categories/share/"/>
     
     
   </entry>
   
   <entry>
     <title>Yellow</title>
-    <link href="leouas.github.io/mics-yellow/"/>
-    <id>leouas.github.io/mics-yellow/</id>
+    <link href="mics-yellow/"/>
+    <id>mics-yellow/</id>
     <published>2020-03-13T07:03:35.000Z</published>
     <updated>2020-03-13T07:03:35.000Z</updated>
     
@@ -420,15 +420,15 @@
     </summary>
     
     
-      <category term="mics" scheme="leouas.github.io/categories/mics/"/>
+      <category term="mics" scheme="leouas.github.io/demo/categories/mics/"/>
     
     
   </entry>
   
   <entry>
     <title>Book-list</title>
-    <link href="leouas.github.io/book-book-list/"/>
-    <id>leouas.github.io/book-book-list/</id>
+    <link href="book-book-list/"/>
+    <id>book-book-list/</id>
     <published>2020-03-12T18:35:47.000Z</published>
     <updated>2020-03-12T18:35:47.000Z</updated>
     
@@ -441,15 +441,15 @@
     </summary>
     
     
-      <category term="books" scheme="leouas.github.io/categories/books/"/>
+      <category term="books" scheme="leouas.github.io/demo/categories/books/"/>
     
     
   </entry>
   
   <entry>
     <title>General Criteria in Writing</title>
-    <link href="leouas.github.io/whut-Criteria-In-Writing/"/>
-    <id>leouas.github.io/whut-Criteria-In-Writing/</id>
+    <link href="whut-Criteria-In-Writing/"/>
+    <id>whut-Criteria-In-Writing/</id>
     <published>2020-03-03T02:01:46.000Z</published>
     <updated>2020-03-03T02:01:46.000Z</updated>
     
@@ -465,10 +465,10 @@
     </summary>
     
     
-      <category term="whut" scheme="leouas.github.io/categories/whut/"/>
+      <category term="whut" scheme="leouas.github.io/demo/categories/whut/"/>
     
     
-      <category term="English" scheme="leouas.github.io/tags/English/"/>
+      <category term="English" scheme="leouas.github.io/demo/tags/English/"/>
     
   </entry>
   
