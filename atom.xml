@@ -80,27 +80,6 @@
   </entry>
   
   <entry>
-    <title>Unlike</title>
-    <link href="leouas.github.io/share-unlike/"/>
-    <id>leouas.github.io/share-unlike/</id>
-    <published>2020-05-24T13:11:23.000Z</published>
-    <updated>2020-05-24T13:11:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><meting-js  server="netease"  type="song"  id="1351351466"  autoplay="true"  mutex="false"><br></meting-js></p><div align="center">wei# zhe shen me  pei tu he yin yue yayayaya</div><br><div align="center"><p>那个  6月并不燥热的盛夏<br>早就  过去了</p><p>我不曾知道自己来这里的理由<br>如果那次选择还能在来一次的话<br>或许我会在其他地方</p><p>说不出特别的喜欢，但可能真的不讨厌吧<br>不然那个大一结尾我早就离开了</p><p>网上似乎满是劝退材料的言论<br>其实我并没有多在意<br>而当我回想前一年所学时</p><p>我惆怅了<br>我不记得四大化学学过什么<br>哪怕是基础的化学式和方程<br>我开始质疑自己<br>就这样下去我能够做什么</p><br><p>我什么也想不出来</p><br><p>材料是一门科学<br>打笑地说<br>当我没有足够强的数理基础本科学材料的时候<br>可能这辈子都学不会材料了</p><p><code>ε=(´ο｀*)))唉</code></p><p>可是我又知道自己是几乎不太可能离开的。<br>既然如此，想多少也没啥子用哈<br>有机会 就多做自己喜欢的事情<br>这样也就很好呀</p></div>]]></content>
-    
-    <summary type="html">
-    
-      那个6月，那个并不燥热的盛夏早就过去了
-    
-    </summary>
-    
-    
-      <category term="share" scheme="leouas.github.io/categories/share/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>配置git代理</title>
     <link href="leouas.github.io/geek-git-proxy/"/>
     <id>leouas.github.io/geek-git-proxy/</id>
@@ -469,6 +448,32 @@
     
     
       <category term="English" scheme="leouas.github.io/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maverick 使用</title>
+    <link href="leouas.github.io/share-Maverick/"/>
+    <id>leouas.github.io/share-Maverick/</id>
+    <published>2020-02-25T01:01:02.000Z</published>
+    <updated>2020-02-25T01:01:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>我现在使用Hexo生成静态网站，再部署到Github。在本地写好markdown，然后用hexo来渲染网页。Maverick则省去了在本地 hexo generate &amp;&amp; hexo deploy。每次改动会触发Github Action，进而通过Workflow自动完成更新部署 。于是可以在任何设备上仅在Github一个网站上完成博客的写作与发布。</p><div align=left><img src="https://static.imalan.cn/file/image/post/f3c20.png#vwid=1038&vhei=311" title="" alt="" img align="center"  width="275"></div><h2 id="Maverick"><a href="#Maverick" class="headerlink" title="Maverick"></a>Maverick</h2><p><strong>项目地址</strong>：<a href="https://github.com/AlanDecode/Maverick" target="_blank" rel="noopener">GitHub - AlanDecode/Maverick: 🏄‍ A static blog generator built with Python.</a></p><p><strong>Maverick介绍</strong>：<a href="https://blog.imalan.cn/archives/blog-now-powered-by-maverick/" target="_blank" rel="noopener">Maverick - Go My Own Way. - 无文字 | 三无计划</a></p><p><strong>博客教程原文</strong>：<a href="https://blog.imalan.cn/archives/blog-with-github/" target="_blank" rel="noopener">完全使用 GitHub 写博客 - 无文字 | 三无计划</a></p><p>流程很简单，我跟着做了一下 <a href="https://leouas.top/bthl/" target="_blank" rel="noopener">Gyanle Yao</a> ，Github访问速度不是很友好，我想 git clone ，不过一直没有clone下来 - - 3kb/s</p><p>感觉还是hexo 更熟悉，刚了解主题结构，自己能做的事情也更多。<a href="https://leouas.top/bthl/" target="_blank" rel="noopener">https://leouas.top/bthl/</a><br>拿来做menu中的一项是蛮不错的，我打算用来放一些学习笔记类的文章。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="share" scheme="leouas.github.io/categories/share/"/>
+    
+    
+      <category term="blog" scheme="leouas.github.io/tags/blog/"/>
     
   </entry>
   
